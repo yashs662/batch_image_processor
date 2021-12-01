@@ -17,7 +17,5 @@ currently it does not support displaying preview images for images in subfolders
 
 This app was buit for the internal workings of Balkae.com but you can customize it and suggest/help with improvements to the app
 This app was built using python and tkinter library
-The final app is converted into an executable by using nuitka library
-command used to convert into an executable:
-  python -m nuitka --mingw64 --windows-disable-console --windows-icon-from-ico=balkae.ico .\image_resizer.py
-  
+
+a working installer made with inno installer is also available
